@@ -25,6 +25,7 @@ export const CommentItemDiv = styled.div`
     rgba(250, 250, 250, 0.95)
   );
   border-radius: 48px;
+  border: 1px solid black;
 `;
 
 export const AvatarDiv = styled.div`
